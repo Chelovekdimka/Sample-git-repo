@@ -1,6 +1,7 @@
-Sample git repo# 
+Sample git repo
+First Change
 
-Change2 1
+Second change
 
 
 Third one
